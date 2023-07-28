@@ -1,4 +1,5 @@
 from enum import Enum
+import pydantic 
 
 from fastapi import FastAPI
 
